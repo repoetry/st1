@@ -14,7 +14,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <org.springframework-version> 5.2.3.RELEASE </org.springframework-version>
+        <org.springframework-version>6.0.0</org.springframework-version>
         <org.springframework.security-version> 5.2.1.RELEASE </org.springframework.security-version>
         <ch.qos.logback-version> 1.2.3 </ch.qos.logback-version>
         <org.slf4j-version> 1.7.25 </org.slf4j-version>
